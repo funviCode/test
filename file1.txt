@@ -1,3 +1,4 @@
 git reset  dfd
 test git pull
 test ssh push
+test ssh pull
